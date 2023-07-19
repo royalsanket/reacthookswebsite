@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacthookswebsite/static/css/main.75078cbc.css",
+    "main.js": "/reacthookswebsite/static/js/main.f873f03a.js",
+    "index.html": "/reacthookswebsite/index.html",
+    "main.75078cbc.css.map": "/reacthookswebsite/static/css/main.75078cbc.css.map",
+    "main.f873f03a.js.map": "/reacthookswebsite/static/js/main.f873f03a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75078cbc.css",
+    "static/js/main.f873f03a.js"
+  ]
+}
